@@ -3090,7 +3090,7 @@ GameObject:
   - component: {fileID: 2084988521}
   - component: {fileID: 2084988520}
   m_Layer: 5
-  m_Name: Button (3)
+  m_Name: Button-Voltar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
